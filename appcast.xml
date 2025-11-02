@@ -3,12 +3,12 @@
     <channel>
         <title>FileLift</title>
         <item>
-            <title>0.103</title>
-            <pubDate>Sat, 11 Oct 2025 19:33:48 +0200</pubDate>
-            <sparkle:version>20251011</sparkle:version>
-            <sparkle:shortVersionString>0.103</sparkle:shortVersionString>
+            <title>0.200</title>
+            <pubDate>Sun, 02 Nov 2025 15:28:29 +0100</pubDate>
+            <sparkle:version>20251102</sparkle:version>
+            <sparkle:shortVersionString>0.200</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/103/FileLift.dmg" length="4144132" type="application/octet-stream" sparkle:edSignature="Eucj6eB4JHBuHWHVPB7u6oLS8f7ckk3CeDavNcRhJKK7dpU3juP0AbLEcAYVJ7DCKMCqjeKdVLAcYlKDv1YoAA=="/>
+            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/200/FIleLift.dmg" length="4602227" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
