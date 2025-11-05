@@ -8,7 +8,7 @@
             <sparkle:version>202511105</sparkle:version>
             <sparkle:shortVersionString>0.202</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/202/FileLift.dmg" length="4731518" type="application/octet-stream" sparkle:edSignature="gHBMjsfT4oLkaKJqyFnthzjh+JUe1IfrjqZZVago5/8="/>
+            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/202/FileLift.dmg" length="4731518" type="application/octet-stream" sparkle:edSignature="Eucj6eB4JHBuHWHVPB7u6oLS8f7ckk3CeDavNcRhJKK7dpU3juP0AbLEcAYVJ7DCKMCqjeKdVLAcYlKDv1YoAA=="/>
         </item>
     </channel>
 </rss>
