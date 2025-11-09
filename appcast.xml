@@ -4,11 +4,11 @@
         <title>FileLift</title>
         <item>
             <title>0.300</title>
-            <pubDate>Sun, 09 Nov 2025 20:12:29 +0100</pubDate>
+            <pubDate>Sun, 09 Nov 2025 20:26:04 +0100</pubDate>
             <sparkle:version>20251111</sparkle:version>
             <sparkle:shortVersionString>0.300</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/300/FileLift.dmg" length="4740460" type="application/octet-stream" sparkle:edSignature="TBqUkXp9DHzjaXeIGeCmLEtTTEwo04QCgMrQpwy8PwKpXUJvdOdVUUutxi80VvZT7SEjwmuFAEDoZzuvStWeDA=="/>
+            <enclosure url="https://github.com/kicsipixel/FileLift/releases/download/300/FileLift.dmg" length="4741019" type="application/octet-stream" sparkle:edSignature="azSxEhYcdAqyc/UkXGE7sUVEUHW+bdEtoQB+qU8N/ISv6SIfOP1aN3JmcV/jLXaaJ/jT3e7aZ08pWWsJK61jCA=="/>
         </item>
     </channel>
 </rss>
