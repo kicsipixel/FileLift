@@ -40,7 +40,7 @@ Start the FileLift application and navigate to **Settings...**. Enter your `comp
 
 - [ ] Error handling and user feedback
 - [x] ~~Progress indicator~~
-- [ ] Multiple files upload
+- [x] ~~Multiple files upload~~
 - [ ] Folder upload support
 - [x] ~~Automatic update or confirmation is needed~~
 - [ ] Preauthenticated bucket
